@@ -1,2 +1,2 @@
-# c-_codecademy_exercises
+# cpp_codecademy_exercises
 Coding exercises completed within codecademy
